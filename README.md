@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<p align="center" font-sinze="2rem">Sempre foi mais fácil destruir do que criar. Spock</p>
+<p align="center" style="font-size:2rem;">Sempre foi mais fácil destruir do que criar. Spock</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ItaloMiguel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ítalo Miguel github stats" /> 
