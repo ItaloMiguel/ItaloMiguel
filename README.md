@@ -11,6 +11,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ItaloMiguel&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItaloMiguel&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="ItaloMiguel" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItaloMiguel&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="ItaloMiguel" width="50%" style="text-align: center;"/>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
