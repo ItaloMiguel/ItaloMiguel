@@ -2,8 +2,8 @@
 
 <!-- <h1 align="center">Sempre foi mais fácil destruir do que criar. Spock</h1> -->
 <h1 align="center">Se você não gosta de OpenSource retire-se imediatamente</h1>
-</br>
-</br>
+<br />
+<br />
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ItaloMiguel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ítalo Miguel github stats" /> 
