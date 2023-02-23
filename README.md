@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> -->
 
 <!-- <h1 align="center">Sempre foi mais fácil destruir do que criar. Spock</h1> -->
 <h1 align="center">Se você não gosta de OpenSource retire-se imediatamente</h1>
@@ -11,6 +11,6 @@
 <!--    <img src="https://github-profile-trophy.vercel.app/?username=ItaloMiguel&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> -->
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/> -->
 
 
